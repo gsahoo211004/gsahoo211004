@@ -23,8 +23,6 @@
 
 - 📫 How to reach me **gsahoo2110@gmail.com**
 
-- ⚡ Fun fact: **I love diving deep into massive datasets just as much as I enjoy solving a good puzzle!**
-
 ---
 
 ### 🔗 Connect with me:
