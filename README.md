@@ -52,14 +52,6 @@
 
 ---
 
-<p align="left">
-  <a href="https://www.buymeacoffee.com/gsahoo211004" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 181px !important;" >
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsahoo211004&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" width="48%" />
