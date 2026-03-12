@@ -16,7 +16,6 @@
 - 👯 I'm looking to collaborate on **Open-source Data Science projects or innovative Fintech/AI Hackathons.**
 - 🤝 I'm looking for help with **optimizing distributed data architectures and high-performance backend systems.** 
 - 💬 Ask me about **Python, Django, Scikit-learn, or Data Structures & Algorithms in C++/Java.**
-- 📫 How to reach me **gsahoo2110@gmail.com** 
 
 ---
 
