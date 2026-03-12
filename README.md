@@ -2,7 +2,7 @@
 <h3 align="center">Data Science & Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <code style="color: #2ea043;">Passionate about building AI-driven solutions and solving complex algorithmic challenges....</code>
+  <code style="color: #2ea043;">Passionate about building scalable AI-driven solutions, architecting data pipelines, and solving complex algorithmic challenges...</code>
 </p>
 
 <p align="center">
@@ -11,17 +11,12 @@
 
 ---
 
-- 🔭 I'm currently working on **building scalable Data Engineering pipelines and AI/ML models.**
-
-- 🌱 I'm currently learning **Advanced NLP, LLMs, and expanding my Full-Stack AI capabilities.**
-
-- 👯 I'm looking to collaborate on **open-source Data Science projects or innovative Hackathons.**
-
-- 🤝 I'm looking for help with **optimizing complex Data Architectures and exploring Cloud Technologies.**
-
-- 💬 Ask me about **Python, Django, Machine Learning pipelines, or Data Structures & Algorithms in C++/Java.**
-
-- 📫 How to reach me **gsahoo2110@gmail.com**
+- 🔭 I'm currently working on **building scalable Data Engineering pipelines and LLM-powered applications.** [cite: 52, 55]
+- 🌱 I'm currently learning **Advanced NLP, Cloud-Native deployment, and DevOps fundamentals.** [cite: 42]
+- 👯 I'm looking to collaborate on **Open-source Data Science projects or innovative Fintech/AI Hackathons.**
+- 🤝 I'm looking for help with **optimizing distributed data architectures and high-performance backend systems.** [cite: 52]
+- 💬 Ask me about **Python, Django, Scikit-learn, or Data Structures & Algorithms in C++/Java.**
+- 📫 How to reach me **gsahoo2110@gmail.com** [cite: 30]
 
 ---
 
@@ -39,13 +34,24 @@
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css" alt="Languages" />
-  </a>
+  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="python" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="java" height="40"/></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="cpp" height="40"/></a>
+  <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="c" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="javascript" height="40"/></a>
+  <a href="https://www.r-project.org/" target="_blank"><img src="https://skillicons.dev/icons?i=r" alt="r" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="html5" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="css3" height="40"/></a>
   <br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=scikitlearn,django,flask,postgres,mysql,mongodb,git,github" alt="Frameworks and Tools" />
-  </a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" height="40"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" alt="django" height="40"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" alt="flask" height="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="git" height="40"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="github" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="docker" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="linux" height="40"/></a>
 </p>
 
 ---
