@@ -11,12 +11,12 @@
 
 ---
 
-- 🔭 I'm currently working on **building scalable Data Engineering pipelines and LLM-powered applications.** [cite: 52, 55]
-- 🌱 I'm currently learning **Advanced NLP, Cloud-Native deployment, and DevOps fundamentals.** [cite: 42]
+- 🔭 I'm currently working on **building scalable Data Engineering pipelines and LLM-powered applications.**
+- 🌱 I'm currently learning **Advanced NLP, Cloud-Native deployment, and DevOps fundamentals.** 
 - 👯 I'm looking to collaborate on **Open-source Data Science projects or innovative Fintech/AI Hackathons.**
-- 🤝 I'm looking for help with **optimizing distributed data architectures and high-performance backend systems.** [cite: 52]
+- 🤝 I'm looking for help with **optimizing distributed data architectures and high-performance backend systems.** 
 - 💬 Ask me about **Python, Django, Scikit-learn, or Data Structures & Algorithms in C++/Java.**
-- 📫 How to reach me **gsahoo2110@gmail.com** [cite: 30]
+- 📫 How to reach me **gsahoo2110@gmail.com** 
 
 ---
 
