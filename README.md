@@ -1,21 +1,86 @@
 <h1 align="center">Hi 👋, I'm Gaurav Sahoo</h1>
-<h3 align="center">Data Science & Machine Learning Enthusiast</h3>
+<h3 align="center">Machine Learning Engineer | Data Scientist</h3>
 
 <p align="center">
-  <code style="color: #2ea043;">Passionate about building scalable AI-driven solutions, architecting data pipelines, and solving complex algorithmic challenges...</code>
+  <code style="color: #2ea043;">I build end-to-end AI systems — from data pipelines and model development to production deployment and monitoring. Passionate about NLP, Generative AI, applied machine learning, and solving algorithmic problems.</code>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gsahoo211004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/gsahoo211004/gsahoo211004/blob/main/Gaurav_Sahoo_Resume.pdf"><img src="https://img.shields.io/badge/Download%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume"/></a>
 </p>
 
 ---
 
-- 🔭 I'm currently working on **building scalable Data Engineering pipelines and LLM-powered applications.**
-- 🌱 I'm currently learning **Advanced NLP, Cloud-Native deployment, and DevOps fundamentals.** 
-- 👯 I'm looking to collaborate on **Open-source Data Science projects or innovative Fintech/AI Hackathons.**
-- 🤝 I'm looking for help with **optimizing distributed data architectures and high-performance backend systems.** 
-- 💬 Ask me about **Python, Django, Scikit-learn, or Data Structures & Algorithms in C++/Java.**
+### 🎓 Education
+
+- **Integrated M.Tech in Computer Science (Data Science)** — VIT Vellore · *Expected 2027*
+
+---
+
+### 🚀 Featured Projects
+
+#### 1. NarrativeGraph-AI
+*Knowledge-Grounded Long-Form Narrative Engine* — Hybrid Knowledge Graph + LoRA fine-tuned LLM (Qwen2.5) architecture that solves context drift, character inconsistency, and plot hallucination in long-form storytelling. Includes an evaluation pipeline with entity-drift scoring.
+
+**Tech:** Python, NetworkX, spaCy, PEFT/LoRA, QLoRA, TRL, Streamlit
+[🔗 GitHub](https://github.com/gsahoo211004/NarrativeGraph-AI)
+
+#### 2. Recovery-Agent
+*AI Revenue Recovery Agent* — Razorpay Buildathon submission (Track 03). LangGraph-powered agent that detects at-risk subscription payments using a LightGBM model, executes a bounded, compliance-gated escalation playbook, and produces a full audit trail. Achieved 146× ROI on a 500-subscriber demo batch.
+
+**Tech:** Python, LangGraph, LightGBM, FastAPI, Pydantic
+[🔗 GitHub](https://github.com/gsahoo211004/Recovery-Agent)
+
+#### 3. MedScribe-IQ — Clinical Report Auditor & ICD-10 Validator
+*Healthcare AI* — Clinical text pipeline using spaCy with negation detection, ICD-10 validation via WHO API, Gemini LLM audit summaries, MLflow experiment tracking, and Evidently AI data-drift monitoring. Deployed with Streamlit + Docker.
+
+**Tech:** Python, spaCy, Gemini, MLflow, Evidently AI, Streamlit, Docker
+[🔗 GitHub](https://github.com/gsahoo211004/MedScribe-IQ-Clinical-Report-Auditor-ICD-10-Validator)
+
+#### 4. SkillMatch — AI Resume vs Job Fit Evaluator
+*Intelligent Hiring Tool* — Semantic resume–job description matching using SBERT (all-MiniLM-L6-v2), PDF parsing with PyMuPDF, spaCy-based skill extraction, and Gemini API job-role analysis with structured skill-gap recommendations.
+
+**Tech:** Python, PyMuPDF, SBERT, spaCy, Gemini, Streamlit, Docker
+[🔗 GitHub](https://github.com/gsahoo211004/SkillMatch)
+
+#### 5. Predictive AQI Monitoring & Visualization System
+*Environmental Data Science* — Real-time air-quality monitoring and forecasting using OpenWeatherMap API, Random Forest and XGBoost models, and interactive geospatial visualization with Folium. Served via Streamlit and containerized with Docker.
+
+**Tech:** Python, Random Forest, XGBoost, Folium, Streamlit, Docker
+[🔗 GitHub](https://github.com/gsahoo211004/Predictive-AQI-Monitoring-and-Visualization-System)
+
+---
+
+### 🛠️ Technical Skills
+
+| Category | Skills |
+|----------|--------|
+| **Languages** | Python, SQL, Java, C/C++, R, JavaScript |
+| **Core Concepts** | Data Structures & Algorithms, OS, OOP, DBMS, Computer Networks, Software Engineering |
+| **ML & AI** | Scikit-learn, PyTorch, SBERT, Deep Learning, Statistical Modelling |
+| **NLP & GenAI** | spaCy, NLP Pipelines, Named Entity Recognition, LLM/GenAI API Integration (Gemini), Prompt Engineering, RAG |
+| **MLOps & Data Engineering** | MLflow, Evidently AI, Docker, GitHub Actions CI/CD, ETL/ELT |
+| **Tools & Platforms** | Git/GitHub, Streamlit, PostgreSQL, MySQL, MongoDB, Linux (Ubuntu), Jupyter, Google Colab, Power BI |
+
+---
+
+### 💼 Experience
+
+#### Research Intern — CDMM, VIT
+*May 2025 – Jun 2025*
+- Built a real-time data analysis platform to track Random Forest and XGBoost models using MLflow.
+- Managed the end-to-end pipeline from data ingestion and experimentation to visualization.
+
+#### Data Science Intern — Missing Connectz Technology Solutions, Chennai
+*Jun 2025 – Jul 2025*
+- Worked with commercial datasets across data preparation and core data analysis workflows.
+- Developed automated data pipelines and backend integrations using Django.
+
+---
+
+### 💬 Languages
+English · Hindi · Odia · Tamil
 
 ---
 
@@ -27,30 +92,12 @@
   <a href="mailto:gsahoo2110@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
----
-
-### 🛠️ Languages and Tools:
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="python" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="java" height="40"/></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="cpp" height="40"/></a>
-  <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="c" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="javascript" height="40"/></a>
-  <a href="https://www.r-project.org/" target="_blank"><img src="https://skillicons.dev/icons?i=r" alt="r" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="html5" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="css3" height="40"/></a>
-  <br><br>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" alt="django" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" alt="flask" height="40"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="git" height="40"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="github" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="docker" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="linux" height="40"/></a>
+  <a href="https://github.com/gsahoo211004">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://github.com/gsahoo211004/gsahoo211004/blob/main/Gaurav_Sahoo_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
+  </a>
 </p>
 
 ---
