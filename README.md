@@ -59,8 +59,8 @@
 | **Languages** | Python, SQL, Java, C/C++, R, JavaScript |
 | **Core Concepts** | Data Structures & Algorithms, OS, OOP, DBMS, Computer Networks, Software Engineering |
 | **ML & AI** | Scikit-learn, PyTorch, SBERT, Deep Learning, Statistical Modelling |
-| **NLP & GenAI** | spaCy, NLP Pipelines, Named Entity Recognition, LLM/GenAI API Integration (Gemini), Prompt Engineering, RAG |
-| **MLOps & Data Engineering** | MLflow, Evidently AI, Docker, GitHub Actions CI/CD, ETL/ELT |
+| **NLP & GenAI** | spaCy, NLP Pipelines, Named Entity Recognition, LLM/GenAI API Integration, Prompt Engineering, RAG, LangChain |
+| **MLOps & Data Engineering** | MLflow, Evidently AI, Docker, GitHub Actions CI/CD, ETL/ELT, LangGraph |
 | **Tools & Platforms** | Git/GitHub, Streamlit, PostgreSQL, MySQL, MongoDB, Linux (Ubuntu), Jupyter, Google Colab, Power BI |
 
 ---
